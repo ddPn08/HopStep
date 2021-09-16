@@ -1,0 +1,7 @@
+name: HopStep
+version: 1.0-SNAPSHOT
+author: ddPn08
+main: net.sasadd.HopStep.HopStep
+commands:
+  hopstep:
+    permission: hopstep.command
